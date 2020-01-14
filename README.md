@@ -1,6 +1,6 @@
 <img align="right" width="200" height="200" src="https://github.com/KansasCityWomeninTechnology/codingandcupcakes/blob/master/img/logo.png" alt="Coding and Cupcakes Logo">
 
-# Coding & Cupcakes Worksheet
+# Coding & Cupcakes Worksheet - HTML
 
 ## Overview
 
@@ -10,32 +10,29 @@ To create a web site, we use a couple basic things - HTML, CSS, and JavaScript. 
 
 1.  Parents: Please take our anonymous [survey](https://docs.google.com/forms/d/e/1FAIpQLSdKlS1CXl3lq1FuCNgFuoBucqZhq4f7Yr2V67PMp0IiuhfuBg/viewform).
 2.  Install Google Chrome at [www.google.com/chrome](www.google.com/chrome) - this is our preferred browser to work in.
-3.  If your daughter doesn’t have a Gmail account, set her up with one. (It’s ok to say she’s 14 on their age restriction piece)
-    * Be sure to write down your username and password on the account reminder worksheet!
-4.  Create an account on [https://github.com](https://github.com)
+3.  Create an account on [https://github.com](https://github.com)
     * Be sure to write down your username and password on the account reminder worksheet!
     * Check your email for a GitHub verification email.
-5.  Sign up for a Codeanywhere account on [https://codeanywhere.com](https://codeanywhere.com)
-    * Make sure you use your Gmail account when you register.
+4.  Sign up for a Codeanywhere account on [https://codeanywhere.com](https://codeanywhere.com)
     * Check your email for a Codeanywhere verification email.  
 
 ## Project Setup
 
-Log into Github.
+Log into Github:
 
-1.  Go to https://github.com/kansascitywomenintechnology/codingandcupcakes and hit the **fork** button in the top right. This copies the codingandcupcakes code into a repository in your GitHub account.
+*  Go to https://github.com/kansascitywomenintechnology/codingandcupcakes and hit the **fork** button in the top right. This copies the codingandcupcakes code into a repository in your GitHub account.
 
-Log into Codeanywhere.
+Log into Codeanywhere:
 
-2. If you have trouble in the next few steps, you may need to disable your browser's **pop-up blocker**. To do so, click the pop-up blocker icon at the far right of the address bar and select "Always allow pop-ups from codeanywhere.com".
-3. In the Codeanywhere editor, select **File** -> **New Connection** -> **Git from URL**.
-4. In the dialog box that appears, paste the URL of your Coding and Cupcakes GitHub repository: **ht<i></i>tps://github.com/{your GitHub username}/codingandcupcakes**, and click Next.
-5. For name, type **codingandcupcakes**. Select either of the HTML options from the list of development stacks and then click Create.
+1. If you have trouble in the next few steps, you may need to disable your browser's **pop-up blocker**. To do so, click the pop-up blocker icon at the far right of the address bar and select "Always allow pop-ups from codeanywhere.com".
+2. In the Codeanywhere editor, select **File** -> **New Connection** -> **Git from URL**.
+3. In the dialog box that appears, paste the URL of your Coding and Cupcakes GitHub repository: **ht<i></i>tps://github.com/{your GitHub username}/codingandcupcakes**, and click Next.
+4. For name, type **codingandcupcakes**. Select either of the HTML options from the list of development stacks and then click Create.
 
 In Codeanywhere:
 
-6. Click **index.html** (see screenshot below) to open it. This is the code behind the main page of your website.
-7. Click the File Preview icon (the magnifying glass). This will open the main page of your website in a new tab.
+5. Click **index.html** (see screenshot below) to open it. This is the code behind the main page of your website.
+6. Click the File Preview icon (the magnifying glass). This will open the main page of your website in a new tab.
 
 <img src="https://github.com/KansasCityWomeninTechnology/codingandcupcakes/blob/master/img/index-and-file-preview.png" alt="index.html and File Preview icon">
 
