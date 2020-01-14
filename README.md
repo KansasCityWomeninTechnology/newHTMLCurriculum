@@ -44,30 +44,30 @@ Start looking for code to change in your **index.html** file to customize and ma
 
 ## Site Basics
 
-1.  Change the **title** of your site to **{your name}'s cupcake shop**.
-2.  Change the **h1** tag of the website to **{your name}'s cupcake shop**.
-3.  Add your own text about your cupcake shop using **h2**, **h3**, and **p** tags. Get creative in telling your story!
-4.  Put in an image of your cupcakes on the page. (Look in the **img/cupcakes** folder for some recommendations. Don't see any you like? Search cupcake images on Google or Flickr.)
+1.  Change the **title** of your site.
+2.  Change the **h1** tag of the website to the title of your website.
+3.  Add your own text about your website using **h2**, **h3**, and **p** tags. Get creative in telling your story!
+4.  Put images on the page. (Save your images in the **images** folder. You can search images on Google or Flickr.)
     *  Hint: Images are stored between list tags (```<li>``` and ```</li>```) in the code. Find these tags and replace the content so that it points to your images.
 
 ## Creating a Contact Page
 
 The easiest way to add another page to your website is to copy an existing page and then make changes to it.
 
-1.  In Codeanywhere, right-click on **index.html** in the list of files and select Clone. Name the new file **contact.html**. Right now, it should contain the same code as the index.html file.
+1.  In Codeanywhere, right-click on **index.html** in the list of files and select Clone. Name the new file **about.html**. Right now, it should contain the same code as the index.html file.
 
-Next, you'll modify the content of the page. Let’s put the shop’s address so people know where to visit your store.
+Next, you'll modify the content of the page. Let’s put some information about our page so people know what kind of website we are building.
 
-2.  Look in the body section of the code for the ```<div class=”content”>``` section (approx. line 24 of the code).
+2.  Look in the body section of the code for the ```<div class=”content”>``` section (approx. line 22 of the code).
 3.  In the content section of your contact page, add contact information between the ```<h1>``` and ```</h1>``` tags.
-    *  Use paragraph tags to insert your contact information, and anything else you want to say. Note: It’s okay to erase the content between those tags.
-    *  You can use the Plexpod address:
+    *  Use paragraph tags to insert anything else you want to say. Note: It’s okay to erase the content between those tags.
+    *  You can add information about VMLY&R also!:
 
         ```
         <h2>Visit us at:</h2>
-        <p>Plexpod</p>
-        <p>300 E. 39th St.</p>
-        <p>Kansas City, MO 64111</p>
+        <p>VMLY&R</p>
+        <p>250 Richards Rd.</p>
+        <p>Kansas City, MO 64116</p>
         ```
 
 Now let's modify the navigation, which lets us know where we are on the website. You can see how the navigation works by going to your website and clicking between the **Home** and **Shop** tabs in the header. Notice the gray shading and pink bar that highlight each tab as you click between them. We want to make the same thing happen when you click on the Contact page.
